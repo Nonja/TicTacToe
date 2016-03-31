@@ -1,0 +1,3 @@
+# TicTacToe
+
+Simple QML game.
