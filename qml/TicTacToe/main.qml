@@ -6,7 +6,7 @@ Rectangle {
     color: "black"
 
     Text{
-        text: "Ristinolla"
+        text: "Tic Tac Toe"
         color: "white"
         font.pointSize: 30
         anchors.horizontalCenter: parent.horizontalCenter
